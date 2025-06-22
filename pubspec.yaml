@@ -1,16 +1,13 @@
 name: collapsible_cards
-description: "this will help you to put a card above other card as a stack in list view"
+description: A Flutter package that helps stack cards in a ListView.
 version: 0.0.1
 homepage: https://github.com/Fayis2021/collapsible_cards
 repository: https://github.com/Fayis2021/collapsible_cards
 issue_tracker: https://github.com/Fayis2021/collapsible_cards/issues
 
-authors:
-  - Muhammed Fayis <fayisatgit@email.com>
-
 environment:
   sdk: ^3.6.1
-  flutter: ">=1.17.0"
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
