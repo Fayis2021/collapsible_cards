@@ -3,6 +3,10 @@ description: "this will help you to put a card above other card as a stack in li
 version: 0.0.1
 homepage: https://github.com/Fayis2021/collapsible_cards
 repository: https://github.com/Fayis2021/collapsible_cards
+issue_tracker: https://github.com/Fayis2021/collapsible_cards/issues
+
+authors:
+  - Muhammed Fayis <fayisatgit@email.com>
 
 environment:
   sdk: ^3.6.1
