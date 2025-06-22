@@ -75,3 +75,6 @@ class CollapsibleCard extends StatelessWidget {
 }
 
 
+## Demo
+
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/doc/demo.gif"width="400">
