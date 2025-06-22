@@ -17,7 +17,7 @@ A customizable Flutter widget that displays cards in a stacked layout with smoot
 
 ## 👤 Maintainer
 
-**Muhammed Fayis**
+**MUHAMMED FAYIS**
 
 - GitHub: [@Fayis2021](https://github.com/Fayis2021)
 

@@ -1,6 +1,6 @@
 name: collapsible_cards
-description: A Flutter package that helps stack cards in a ListView.
-version: 0.0.4
+description: A customizable Flutter widget that displays cards in a stacked layout with smooth scrolling and animation.
+version: 0.0.5
 
 homepage: https://github.com/Fayis2021/collapsible_cards
 repository: https://github.com/Fayis2021/collapsible_cards
