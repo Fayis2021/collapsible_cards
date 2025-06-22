@@ -1,10 +1,8 @@
 name: collapsible_cards
 description: A customizable Flutter widget that displays cards in a stacked layout with smooth scrolling and animation.
 version: 0.0.6
-
 homepage: https://github.com/Fayis2021/collapsible_cards
 repository: https://github.com/Fayis2021/collapsible_cards
-issue_tracker: https://github.com/Fayis2021/collapsible_cards/issues
 
 
 environment:
