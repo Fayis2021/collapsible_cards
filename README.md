@@ -9,12 +9,32 @@ A customizable Flutter widget that displays cards in a stacked layout with smoot
 - Initial page animation
 - Clean parallax-like effect
 
+
 ## Demo
 
 <!-- ![Demo GIF](https://raw.githubusercontent.com/Fayis2021/collapsible_cards/main/example/doc/demo_cards.gif) -->
 <img src="https://raw.githubusercontent.com/Fayis2021/collapsible_cards/main/example/doc/demo_cards.gif" style="width:250px;height:500px;">
 ```
 
+## 👤 Maintainer
+
+**Muhammed Fayis**
+
+- GitHub: [@Fayis2021](https://github.com/Fayis2021)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Fayis2021">
+        <img src="https://avatars.githubusercontent.com/u/59821122?v=4" width="80px;" alt="Muhammed Fayis"/>
+        <br />
+        <sub><b>Muhammed Fayis</b></sub>
+      </a>
+      <br />
+      📦 Author
+    </td>
+  </tr>
+</table>
 
 ## Usage
 
@@ -82,3 +102,4 @@ class CollapsibleCard extends StatelessWidget {
 }
 
 
+```
