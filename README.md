@@ -12,7 +12,7 @@ A customizable Flutter widget that displays cards in a stacked layout with smoot
 ## Demo
 
 <!-- ![Demo GIF](https://raw.githubusercontent.com/Fayis2021/collapsible_cards/main/example/doc/demo_cards.gif) -->
-<img src="https://raw.githubusercontent.com/Fayis2021/collapsible_cards/main/example/doc/demo_cards.gif" style="width:250px;height:600px;">
+<img src="https://raw.githubusercontent.com/Fayis2021/collapsible_cards/main/example/doc/demo_cards.gif" style="width:250px;height:400px;">
 ```
 
 
