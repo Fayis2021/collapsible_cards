@@ -78,5 +78,5 @@ class CollapsibleCard extends StatelessWidget {
 ## Demo
 
 ![Demo GIF](https://raw.githubusercontent.com/Fayis2021/collapsible_cards/main/example/doc/demo_cards.gif)
-<!-- <img src="https://raw.githubusercontent.com/Fayis2021/collapsible_cards/main/example/doc/demo_cards.gif" width="400"> -->
+<img src="https://raw.githubusercontent.com/Fayis2021/collapsible_cards/main/example/doc/demo_cards.gif" width="400">
 ```
