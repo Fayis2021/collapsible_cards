@@ -1,3 +1,5 @@
-## 0.0.1
+## [1.0.0] - 2025-06-22
 
-* TODO: Describe initial release.
+- Initial release of `collapsible_card_stacker`.
+- Supports vertical/horizontal layout.
+- Custom card list with animation.
