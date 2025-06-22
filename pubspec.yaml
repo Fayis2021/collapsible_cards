@@ -1,8 +1,8 @@
 name: collapsible_cards
 description: "this will help you to put a card above other card as a stack in list view"
 version: 0.0.1
-homepage: https://github.com/yourusername/my_package
-repository: https://github.com/yourusername/my_package
+homepage: https://github.com/Fayis2021/collapsible_cards
+repository: https://github.com/Fayis2021/collapsible_cards
 
 environment:
   sdk: ^3.6.1
